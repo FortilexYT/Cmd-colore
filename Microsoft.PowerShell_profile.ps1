@@ -3,7 +3,7 @@
 #  ░█░░░█░█░█░░░█░█░█▀▄░█▀█░▀▀█░█▀█
 #  ░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀
 #  ColorBash - Profil PowerShell coloré
-#  Install : iwr https://raw.githubusercontent.com/TON_USER/colorbash/main/install.ps1 | iex
+#  Install : iwr https://raw.githubusercontent.com/FortilexYT/colorbash/main/install.ps1 | iex
 # ============================================================
 
 # ── Couleurs globales ────────────────────────────────────────
